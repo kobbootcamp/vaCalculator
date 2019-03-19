@@ -1,0 +1,22 @@
+#AboutTitle {
+    margin-top: 5%;  
+    font-weight: bold; 
+    font-size: 36px;
+    text-align: center;
+}
+
+#AboutText {
+    font-size: 24px;
+    text-align: center;
+
+}
+
+@media only screen and (max-width: 600px) {
+
+#AboutText {
+    font-size: 18px;
+    text-align: center;
+    
+}
+
+}

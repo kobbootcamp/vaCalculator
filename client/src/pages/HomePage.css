@@ -1,0 +1,19 @@
+#homeTitle {
+    margin-top: 5%;  
+    font-weight: bold; 
+    font-size: 36px;
+    text-align: center;
+}
+
+#homeText {
+    font-size: 24px;
+
+}
+
+@media only screen and (max-width: 600px) {
+
+#homeText {
+    font-size: 18px;
+}
+
+}

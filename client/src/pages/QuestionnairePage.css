@@ -1,0 +1,23 @@
+#gridbox {
+    /* border: 1px;
+    border-style: solid;
+    border-color: gray; */
+    padding:20px;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+#surveyTitle {
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.formControl {
+    font-size: 30px;
+    text-align: center;
+}
+
+@media only screen and (max-width: 600px) {
+    
+}
